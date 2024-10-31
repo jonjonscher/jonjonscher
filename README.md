@@ -2,7 +2,7 @@
 
 <h1 style="text-align: left;">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Jonathan+Scher" alt="Title GitHub Readme" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=800&size=35&duration=3000&pause=500&color=2513F7&multiline=true&width=650&height=140&lines=user%40laptop%3A~%24+whoami;Jonathan+Scher" alt="Title GitHub Readme" />
   </a>
 </h1>
 
